@@ -1,0 +1,11 @@
+D:\c#\WebBrowser\Web Browser\bin\Debug\Web Browser.exe.config
+D:\c#\WebBrowser\Web Browser\bin\Debug\Web Browser.exe
+D:\c#\WebBrowser\Web Browser\bin\Debug\Web Browser.pdb
+D:\c#\WebBrowser\Web Browser\obj\Debug\Web Browser.csproj.AssemblyReference.cache
+D:\c#\WebBrowser\Web Browser\obj\Debug\Web Browser.csproj.SuggestedBindingRedirects.cache
+D:\c#\WebBrowser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+D:\c#\WebBrowser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+D:\c#\WebBrowser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+D:\c#\WebBrowser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+D:\c#\WebBrowser\Web Browser\obj\Debug\Web Browser.exe
+D:\c#\WebBrowser\Web Browser\obj\Debug\Web Browser.pdb
